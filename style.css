@@ -1,7 +1,8 @@
 body {
     background-color:black;
     font-family:arial;
-    color:white
+    color:white;
+    
 }
 h1{
     color:grey;
@@ -10,9 +11,9 @@ h1{
 .maindiv {
     background-color: white;
     color: black;
-    width: 60vh;
+    width: 60% ;
     padding: 20px;
     border-radius: 25px;
-    align:center
+    margin: auto;
 }
 
