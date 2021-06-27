@@ -14,7 +14,7 @@ function compute()
     "/</mark>,/<br/>at an interest rate of <mark>"+ rate +
     "% \</mark> \<br/>You will receive an amount of \<mark>"+ amount +
     "/</mark>,/<br/>in the year <mark>"+ year +"/<br/>"
-    document.getElementById("result").innerText=res;
+    document.getElementById("result").innerHTML=res;
 }
 
         
